@@ -1,0 +1,12 @@
+name: ShinyApp
+title:
+username:
+account: llytsp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 435796
+bundleId: 1664283
+url: https://llytsp.shinyapps.io/ShinyApp/
+when: 1540544437.42895
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,5 @@
+library("shiny")
+library("httr")
+library("jsonlite")
+library("png")
+options(shiny.usecairo = FALSE)
